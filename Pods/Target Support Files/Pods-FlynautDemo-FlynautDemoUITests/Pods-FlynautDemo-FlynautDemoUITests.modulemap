@@ -1,0 +1,6 @@
+framework module Pods_FlynautDemo_FlynautDemoUITests {
+  umbrella header "Pods-FlynautDemo-FlynautDemoUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
